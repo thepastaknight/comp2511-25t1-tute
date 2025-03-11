@@ -1,4 +1,3 @@
-# Tutorials
+# Tutorials Solutions - 25T1 COMP2511 T13A
 
-Open VSCode in this directory here for compilation to work
-# comp2511-25t1-tute
+Contact me [here](mailto:matty.awad03@gmail.com) if you have any isues.
